@@ -12,4 +12,4 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## 🏆 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan04&theme=dark)
