@@ -11,7 +11,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Sahan04/VTA-Register-Android-app-from-java)
 
-## 🎨 Graphics & UI/UX:
+## 🎨 Graphics :
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## 🖥️ System Analysis & Operations:
