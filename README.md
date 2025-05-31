@@ -1,7 +1,6 @@
 # Hi there, I'm Sahan 👋
 
 ## 🚀 Tech Stack:
-[![SFA](https://www.sokrio.com/sales-force-automation-in-bangladesh/)](https://github.com/Sahan04/Printing-shop-Web-site)
 [![HTML5](https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Sahan04/Printing-shop-Web-site)
 [![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Sahan04/Printing-shop-Web-site)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Sahan04/-Library-Management-java-project)
