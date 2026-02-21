@@ -87,6 +87,6 @@ To grow as a System & Network Engineer while continuously enhancing my expertise
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Sahan04
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: www.linkedin.com/in/sahan-hishara-877945211
 
 ---
